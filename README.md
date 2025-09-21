@@ -81,7 +81,7 @@ PRAGATI directly addresses these gaps by providing:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<username>/pragati-career-advisor.git
+git clone https://github.com/ved0104/Smart-Career.git
 cd pragati-career-advisor
 ````
 
@@ -138,9 +138,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 * Nitya Pahwa
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-```
