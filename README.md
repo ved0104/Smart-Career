@@ -63,20 +63,6 @@ PRAGATI directly addresses these gaps by providing:
 
 ````
 
----
-
-## 🎥 Demo
-- **Prototype Link**: [Insert deployed prototype URL]  
-- **Demo Video (3 min)**: [Insert video link]  
-
----
-
-## 📊 Architecture
-![Architecture Diagram](docs/architecture.png)  
-*(Include diagram from your PPT here)*  
-
----
-
 ## 📜 How to Run Locally
 
 ### 1. Clone the repository
