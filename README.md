@@ -1,9 +1,3 @@
-# Smart-Career
-Got it 👍 I’ll draft a professional **`README.md`** for your project **PRAGATI** that you can directly put into your GitHub repo.
-
----
-
-```markdown
 # PRAGATI – Career Pathway for Everyone 🎓✨
 
 PRAGATI is an **AI-powered career and education advisory platform** designed to support students in **government education ecosystems**, especially in Tier-2 and Tier-3 cities.  
